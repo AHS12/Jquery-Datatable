@@ -1,0 +1,6 @@
+E:\Projects\BITM\DOTNET\TEST\JqueryDataTable\JqueryDataTable\bin\JqueryDataTable.dll.config
+E:\Projects\BITM\DOTNET\TEST\JqueryDataTable\JqueryDataTable\bin\JqueryDataTable.dll
+E:\Projects\BITM\DOTNET\TEST\JqueryDataTable\JqueryDataTable\bin\JqueryDataTable.pdb
+E:\Projects\BITM\DOTNET\TEST\JqueryDataTable\JqueryDataTable\obj\Debug\JqueryDataTable.csprojResolveAssemblyReference.cache
+E:\Projects\BITM\DOTNET\TEST\JqueryDataTable\JqueryDataTable\obj\Debug\JqueryDataTable.dll
+E:\Projects\BITM\DOTNET\TEST\JqueryDataTable\JqueryDataTable\obj\Debug\JqueryDataTable.pdb
